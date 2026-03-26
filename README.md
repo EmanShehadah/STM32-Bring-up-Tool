@@ -26,7 +26,9 @@ A Python-based desktop tool for STM32 board bring-up and validation.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the application: 
+   
+3. Run the application:
+   ```bash
    python main.py
 
 ## Example Output
