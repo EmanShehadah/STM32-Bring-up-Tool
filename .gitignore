@@ -1,0 +1,16 @@
+.vscode/
+__pycache__/
+*.pyc
+*.log
+logs/
+firmware/*.hex
+firmware/*.bin
+firmware/*.elf
+dist/
+build/
+*.spec
+venv/
+.venv/
+*.ini
+.DS_Store
+Thumbs.db
