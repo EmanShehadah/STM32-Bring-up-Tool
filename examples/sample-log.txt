@@ -13,17 +13,3 @@
 [26-03-26   13:04:41] LoRa module response: PASS
 [26-03-26   13:04:42] Board self-test: PASS
 [26-03-26   13:04:43] System ready
-[26-03-26   13:04:44] System booting...
-[26-03-26   13:04:45] Board:STM32F446RE
-[26-03-26   13:04:46] Firmware version: 1.0.0
-[26-03-26   13:04:47] lock initialization: PASS
-[26-03-26   13:04:48] GPIO initialization: PASS
-[26-03-26   13:04:49] UART initialization: PASS
-[26-03-26   13:04:50]  I2C initialization: PASS
-[26-03-26   13:04:51] SPI initialization: PASS
-[26-03-26   13:04:52] ADC initialization: PASS
-[26-03-26   13:04:53] Battery voltage: 3.81
-[26-03-26   13:04:54] Temperature sensor: 25.4 C
-[26-03-26   13:04:55] External flash check: PASS
-[26-03-26   13:04:56] LoRa module response: PASS
-[26-03-26   13:04:57] Board self-test: PASS
